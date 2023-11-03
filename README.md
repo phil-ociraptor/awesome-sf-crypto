@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center">Awesome SF Crypto 🌉</h1>
+  <h1 align="center">Awesome SF Crypto 🌉🥖 </h1>
   <p align="center">
     <a href="https://github.com/sindresorhus/awesome">
       <img alt="awesome list badge" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
@@ -10,7 +10,7 @@
   </p>
   
   <p align="center"> An awesome list of resources for people looking for crypto friendly businesses, communities, and resources in SF/Bay Area.</p>
-  <p align="center">Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on how to add to this list</p>
+  <p align="center">Want to improve this list? Check out the  <a href="CONTRIBUTING.md">contributing</a> instructions for how to add to this list</p>
   
 </div>
 
@@ -25,7 +25,7 @@
 
 These restaurants and cafes are supportive of crypto
 
-- [Sunset Square](https://www.sunsetsquares.com/) - A cafe/pizza shop/bar/food hall hybrid. Owners are NFT and AI supporters. Many events are held here
+- [Pixlcat Coffee and Sunset Squares Pizza](https://www.sunsetsquares.com/) - A coffeeshop/pizza shop/bar/food hall hybrid. Owners are NFT and AI supporters. Many events are held here
 
 ### Places
 
