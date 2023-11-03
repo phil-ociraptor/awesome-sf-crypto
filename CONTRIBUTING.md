@@ -1,6 +1,6 @@
 # Contributing
 
-You can always make a contribution by tagging Phil on (Twitter)[https://twitter.com/philipliao_] or (Warpcast)[https://warpcast.com/philipliao]!
+You can always make a contribution by tagging Phil on [Twitter](https://twitter.com/philipliao_) or [Warpcast](https://warpcast.com/philipliao)!
 
 But if you are ready to make a PR? Please name your PR with the following convention:
 
