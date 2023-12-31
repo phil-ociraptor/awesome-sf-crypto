@@ -33,8 +33,24 @@ These restaurants and cafes are supportive of crypto
 
 ### Meetups
 
-TODO: a list of crypto focused meetups
+- SF Sourdough Crypto Club
+- Vampire Attack Bear Market Homework Club
+- [ETHGlobal San Francisco](https://ethglobal.com/events/sanfrancisco2024) (October 18 – 20, 2024)
 
 ### Companies
 
-TODO: a list of companies with offices in SF. Many will host events
+- Coinbase
+- Block
+- Anchorage
+- Alchemy
+- 0x Labs
+- Phantom
+- Conduit
+- Succinct Labs
+- Argus Labs
+- Magic Eden
+- Edge & Node
+- Crusoe Energy
+- Osmosis (Berkeley)
+- Aptos (Palo Alto)
+- Mysten Labs (Palo Alto)
